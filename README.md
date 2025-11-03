@@ -37,7 +37,8 @@ The goal is to identify the **most and least popular movies**, the **most common
 **Name:** Suwaasha M  
 **Role / Title:** Aspiring Data Scientist / Data Analyst  
 **Email:** suwaashamurugaperumal30@gmai.com.com  
-**LinkedIn:** [LinkedIn Profile]((https://www.linkedin.com/in/suwaasham/))  
+[🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/suwaasham/)
+
 
 
 > Passionate about data visualization, machine learning, and creating insightful projects that solve real-world problems.
