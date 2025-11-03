@@ -33,19 +33,6 @@ The goal is to identify the **most and least popular movies**, the **most common
 
 ---
 
-## 📦 Dataset
-The dataset contains attributes such as:  
-`Title`, `Genre`, `Popularity`, `Vote_Count`, `Vote_Average`, and `Release_Date`.  
-Dataset source: [Kaggle – Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows)  
-
----
-
-## 🚀 How to Run
-1. Open the notebook in JupyterLab:  
-   ```bash
-   Netflix_Movie_Analysis.ipynb
-
-   ## 👩‍💻 Author
 
 **Name:** Suwaasha M  
 **Role / Title:** Aspiring Data Scientist / Data Analyst  
